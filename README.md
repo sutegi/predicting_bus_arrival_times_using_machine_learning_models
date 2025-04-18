@@ -1,2 +1,4 @@
-# predicting_bus_arrival_times_using_machine_learning_models
-This research paper explores the application of machine learning models to predict bus arrival times in Astana, Kazakhstan.
+# PREDICTING BUS ARRIVAL TIMES USING MACHINE LEARNING MODELS
+Abstract: This research paper explores the application of machine learning models to predict bus arrival times in Astana, Kazakhstan. Accurate bus arrival predictions are crucial for improving public transportation efficiency and passenger satisfaction. We investigate the performance of various models, including K-means clustering, K-Nearest Neighbors (KNN), Convolutional Long Short-Term Memory (Conv-LSTM), Support Vector Machines (SVM), and Linear/Logistic Regression. Our study utilizes real-world bus data from Astana's public transportation system, considering factors such as time of day, day of the week, route, and traffic conditions. We evaluate the models based on metrics like mean absolute error and root mean squared error to identify the most effective approach for bus arrival prediction in Astana.
+
+Keywords: Machine learning, bus arrival prediction, public transportation, K-means clustering, KNN, Conv-LSTM, SVM, linear regression, logistic regression
